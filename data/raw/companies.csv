@@ -1,0 +1,31 @@
+ticker,company_name,sector
+AAPL,Apple Inc.,Hardware
+MSFT,Microsoft Corporation,Software
+GOOGL,Alphabet Inc.,Internet & Cloud
+META,Meta Platforms Inc.,Internet & Cloud
+NVDA,NVIDIA Corporation,Semiconductors
+AVGO,Broadcom Inc.,Semiconductors
+ORCL,Oracle Corporation,Software
+CRM,Salesforce Inc.,Software
+ADBE,Adobe Inc.,Software
+INTU,Intuit Inc.,Software
+NOW,ServiceNow Inc.,Software
+SAP,SAP SE,Software
+WDAY,Workday Inc.,Software
+IBM,International Business Machines Corp.,IT Services
+ACN,Accenture plc,IT Services
+CTSH,Cognizant Technology Solutions,IT Services
+INFY,Infosys Limited,IT Services
+DXC,DXC Technology Company,IT Services
+CSCO,Cisco Systems Inc.,Hardware
+DELL,Dell Technologies Inc.,Hardware
+HPQ,HP Inc.,Hardware
+HPE,Hewlett Packard Enterprise,Hardware
+INTC,Intel Corporation,Semiconductors
+AMD,Advanced Micro Devices Inc.,Semiconductors
+QCOM,QUALCOMM Incorporated,Semiconductors
+TXN,Texas Instruments Inc.,Semiconductors
+MU,Micron Technology Inc.,Semiconductors
+PANW,Palo Alto Networks Inc.,Cybersecurity
+CRWD,CrowdStrike Holdings Inc.,Cybersecurity
+FTNT,Fortinet Inc.,Cybersecurity
